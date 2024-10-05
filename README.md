@@ -22,3 +22,5 @@ This is my first project using html and css
 ![image alt](https://github.com/priyankashori/Amazon-clone/blob/4378554a1b6ca5ee8beb2247fd4e4f89523bd42a/bikeparts.jpg)
 
 ![image alt](https://github.com/priyankashori/Amazon-clone/blob/af9f86245151c972fff0ff313ec59f7e55ed3471/amazonlogo.jpg)
+
+![image alt](https://github.com/priyankashori/Amazon-clone/blob/6c7d3de7404d460b804f4d15e163da0dd75fa09b/amazon-bacground.jpg)
