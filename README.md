@@ -16,3 +16,5 @@ This is my first project using html and css
 ![image alt](https://github.com/priyankashori/Amazon-clone/blob/579060137da3392bbb8b9c6b500c6ef40931ede3/favicon-amazon.ico)
 
 ![image alt](https://github.com/priyankashori/Amazon-clone/blob/a61fc602011b5ea0550062d263ee9e8c1597ea54/fashion.jpg)
+
+![image alt](https://github.com/priyankashori/Amazon-clone/blob/a22aa3f29fa411804ac6020c978761800e2c46a5/eraringshair.jpg)
