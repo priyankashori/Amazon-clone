@@ -11,3 +11,5 @@ This is my first project using html and css
 ![image alt](https://github.com/priyankashori/Amazon-clone/blob/8fa4a440acf10646104476ddec83141c2123f431/homeieskitchen.jpg)
 
 ![image alt](https://github.com/priyankashori/Amazon-clone/blob/9bbe8b769b0621a3903b13ed5d86d532a62ca08c/homedecor.jpg)
+
+![image alt](https://github.com/priyankashori/Amazon-clone/blob/363b29b84482bd089a771230aef736a7b4b5af3b/fitness.jpg)
