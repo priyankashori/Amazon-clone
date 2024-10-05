@@ -1,5 +1,5 @@
 # Amazon-clone
-This is my first project using html and CSS .
+This is my first project using html and css
 
-![kitchentools](https://github.com/user-attachments/assets/70cf8770-6899-4458-9c3a-b493c6236ee9)
+![kitchentools](https://github.com/user-attachments/assets/5f6ac4ff-5384-4c9f-bcf2-9ae6f5e7e4ca)
 
